@@ -1,0 +1,445 @@
+{
+    "sobres": {
+        "uva":{
+            "nombre": "UVA",
+            "titulo": "¡Crea deliciosas bebidas!",
+            "descripcion": "Con Tang® Uva la creatividad llegará hasta tu cocina para preparar bebidas tan únicas como su sabor. ",
+            "info_nutri": {
+                "contenido_energetico": "17 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,9g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "7mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=uva",
+            "color": "#6b2078",
+            "texto_color": "#df85fc",
+            "img_url": "img/sobres/uva.jpg",
+            "tipo": "sabor"
+        },
+        "melon":{
+            "nombre": "MELÓN ",
+            "titulo": "¡Comparte momentos acompañados de Tang®!",
+            "descripcion": "Tang® Melón es ideal para esas tardes en las que quieres compartir momentos más agradables",
+            "info_nutri": {
+                "contenido_energetico": "20 kJ (5 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1,2g",
+                "azucares": "0,1g",
+                "fibra_dietetica": "0,1g",
+                "sodio": "2mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=melon",
+            "color": "#fbaf71",
+            "texto_color": "#c56a20",
+            "img_url": "img/sobres/melon.jpg",
+            "tipo": "sabor"
+        },
+        "naranja":{
+            "nombre": "NARANJA",
+            "titulo": "¡Disfrútalo en familia!",
+            "descripcion": " Tang® Naranja es el sabor que hará los momentos más divertidos. Y lo mejor, es que puedes compartirlo con todos.",
+            "info_nutri": {
+                "contenido_energetico": "14 kJ (3 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,8g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "7mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=naranja",
+            "color": "#f1912a",
+            "texto_color": "#ad610f",
+            "img_url": "img/sobres/naranja.jpg",
+            "tipo": "sabor"
+        },
+        "mandarina":{
+            "nombre": "MANDARINA",
+            "titulo": "¡Refréscate con su sabor!",
+            "descripcion": "Tang® Mandarina fue creado para tener momentos refrescantes, así que un vaso no será suficiente. ",
+            "info_nutri": {
+                "contenido_energetico": "14 kJ (3 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,8g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "7mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=mandarina",
+            "color": "#f1912a",
+            "texto_color": "#9f5200",
+            "img_url": "img/sobres/mandarina.jpg",
+            "tipo": "sabor"
+        },
+        "mango":{
+            "nombre": "MANGO",
+            "titulo": "¡Diviértete preparando esta bebida!",
+            "descripcion": "Tang® Mango hará que los momentos a la hora de la comida sean más divertidos en compañía de tus personas favoritas. ",
+            "info_nutri": {
+                "contenido_energetico": "17 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,9g",
+                "azucares": "0,1g",
+                "fibra_dietetica": "0,1g",
+                "sodio": "21mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=mango",
+            "color": "#efc133",
+            "texto_color": "#d88c08",
+            "img_url": "img/sobres/mango.jpg",
+            "tipo": "sabor"
+        },
+        "durazno":{
+            "nombre": "DURAZNO",
+            "titulo": "¡Pruébalo bien frío!",
+            "descripcion": "Tang® Durazno es ideal para un antojo en la tarde, un sabor diferente que tu familia no podrá dejar de probar.",
+            "info_nutri": {
+                "contenido_energetico": "19 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "1mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=durazno",
+            "color": "#fd9f85",
+            "texto_color": "#ba492a",
+            "img_url": "img/sobres/durazno.jpg",
+            "tipo": "sabor"
+        },
+        "limon":{
+            "nombre": "LIMÓN",
+            "titulo": "¡No puede faltar en la mesa!",
+            "descripcion": "Tang® Limón se volverá la bebida favorita de todos en casa, es ese sabor refrescante que siempre necesitas.",
+            "info_nutri": {
+                "contenido_energetico": "10 kJ (2 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,6g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "20mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=limon",
+            "color": "#9fca61",
+            "texto_color": "#44690e",
+            "img_url": "img/sobres/limon.jpg",
+            "tipo": "sabor"
+        },
+        "guayaba":{
+            "nombre": "GUAYABA",
+            "titulo": "¡Un sabor que todos deberían probar!",
+            "descripcion": "Tang® Guayaba será el complemento perfecto para las comidas preparadas en casa.",
+            "info_nutri": {
+                "contenido_energetico": "19 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "0mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=guayaba",
+            "color": "#e0c348",
+            "texto_color": "#b59301",
+            "img_url": "img/sobres/guayaba.jpg",
+            "tipo": "sabor"
+        },
+        "tamarindo":{
+            "nombre": "TAMARINDO",
+            "titulo": "¡Mézclalo y crea bebidas diferentes!",
+            "descripcion": "Porque Tang® Tamarindo es ideal para servirse con mucho hielo y claro, un toque de diversión.",
+            "info_nutri": {
+                "contenido_energetico": "14 kJ (3 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,8g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "22mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=tamarindo",
+            "color": "#854d27",
+            "texto_color": "#b69458",
+            "img_url": "img/sobres/tamarindo.jpg",
+            "tipo": "sabor"
+        },
+        "fresa":{
+            "nombre": "FRESA",
+            "titulo": "¡Prepara todas las jarras que quieras!",
+            "descripcion": "Todos van a querer que les sirvas doble vaso cuando prueben el sabor de Tang® Fresa.",
+            "info_nutri": {
+                "contenido_energetico": "17 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "7mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=fresa",
+            "color": "#ea505c",
+            "texto_color": "#a62630",
+            "img_url": "img/sobres/fresa.jpg",
+            "tipo": "sabor"
+        },
+        "pina":{
+            "nombre": "PIÑA",
+            "titulo": "¡Prepáralo como más te guste!",
+            "descripcion": "Tang® Piña es ideal para mezclarlo con tus ingredientes favoritos y preparar bebidas deliciosas.",
+            "info_nutri": {
+                "contenido_energetico": "15 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,9g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "0mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=pina",
+            "color": "#e9c500",
+            "texto_color": "#a38600",
+            "img_url": "img/sobres/pina.jpg",
+            "tipo": "sabor"
+        },
+        "manzana":{
+            "nombre": "MANZANA",
+            "titulo": "¡Disfrútalo con los que más quieres!",
+            "descripcion": "Encuentra nuevas formas de disfrutar Tang® Manzana y compártelo con los que quieres.",
+            "info_nutri": {
+                "contenido_energetico": "19 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "5mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=manzana",
+            "color": "#c6212d",
+            "texto_color": "#740008",
+            "img_url": "img/sobres/manzana.jpg",
+            "tipo": "sabor"
+        },
+        "pina_colada":{
+            "nombre": "PIÑA COLADA",
+            "titulo": "¡Refréscate con esta deliciosa combinación!",
+            "descripcion": "El sabor de Tang® Piña Colada te hará sentir como en la playa ¡No dejes de probarlo!",
+            "info_nutri": {
+                "contenido_energetico": "19 kJ (4 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "0mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=pina_colada",
+            "color": "#e9da86",
+            "texto_color": "#754e28",
+            "img_url": "img/sobres/pinacolada.jpg",
+            "tipo": "sabor"
+        },
+        "horchata":{
+            "nombre": "HORCHATA",
+            "titulo": "¡Ideal para tus reuniones familiares!",
+            "descripcion": "Tang® Horchata lleva el sabor más mexicano a tu mesa, ese que no puede faltar en ningún tipo de familia.",
+            "info_nutri": {
+                "contenido_energetico": "2 kJ (5 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1,3g",
+                "azucares": "0,1g",
+                "fibra_dietetica": "0g",
+                "sodio": "1mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=horchata",
+            "color": "#e7d5a4",
+            "texto_color": "#87683d",
+            "img_url": "img/sobres/horchata.jpg",
+            "tipo": "sabor"
+        },
+        "jamaica":{
+            "nombre": "JAMAICA",
+            "titulo": "¡Un sabor que te recordará buenos momentos!",
+            "descripcion": "Tang® Jamaica es ese sabor que todo buen mexicano conoce y que no puede faltar en tu mesa.",
+            "info_nutri": {
+                "contenido_energetico": "15 kJ (4 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,9g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "1mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=jamaica",
+            "color": "#96080a",
+            "texto_color": "#530505",
+            "img_url": "img/sobres/jamaica.jpg",
+            "tipo": "sabor"
+        },
+        "te_negro_limon":{
+            "nombre": "TÉ NEGRO LIMÓN",
+            "titulo": "¡Para todo tipo de antojos!",
+            "descripcion": "Con Tang® Té Negro Sabor Limón tus días estarán llenos de sabor, prepara bebidas que asombrarán a cualquiera.",
+            "info_nutri": {
+                "contenido_energetico": "15 kJ (4 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,9g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "0mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=te_negro_limon",
+            "color": "#cee27b",
+            "texto_color": "#569015",
+            "img_url": "img/sobres/telimon.jpg",
+            "tipo": "te"
+        },
+        "te_negro_frutos":{
+            "nombre": "TÉ NEGRO FRUTOS ROJOS",
+            "titulo": "¡Crea una tarde perfecta!",
+            "descripcion": "Tang® Té Negro Sabor Frutos Rojos, será ideal para compartir momentos deliciosos y refrescantes con quien tu quieras",
+            "info_nutri": {
+                "contenido_energetico": "17 kJ (4 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "1g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "0mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=te_negro_frutos",
+            "color": "#922617",
+            "texto_color": "#440c05",
+            "img_url": "img/sobres/tefrutosrojos.jpg",
+            "tipo": "te"
+        },
+        "limonada":{
+            "nombre": "LIMONADA MIX",
+            "titulo": "¡Una mezcla llena de sabor, pruébala!",
+            "descripcion": "Tang® Limonada Mix, es la mezcla de Naranja y Limón, sabores tan deliciosos que le quitan la sed a cualquiera.",
+            "info_nutri": {
+                "contenido_energetico": "14 kJ (3 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,7g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "23mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=limonada",
+            "color": "#e5d331",
+            "texto_color": "#9d8d00",
+            "img_url": "img/sobres/limonadamix.jpg",
+            "tipo": "mix"
+        },
+        "fresadamix":{
+            "nombre": "FRESADA MIX",
+            "titulo": "Los sabores más ricos, ahora en un solo sobre ¡Disfrútalos!",
+            "descripcion": "Tang® Fresada Mix, es la fusión de Fresa y Maracuyá, sabores tropicales que no vas a dejar de tomar.",
+            "info_nutri": {
+                "contenido_energetico": "8 kJ (2 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,6g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "0mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=fresadamix",
+            "color": "#da9362",
+            "texto_color": "#c14d37",
+            "img_url": "img/sobres/fresadamix.jpg",
+            "tipo": "mix"
+        },
+        "naranjada":{
+            "nombre": "NARANJADA MIX",
+            "titulo": "¡Prepáralo para todos en casa !",
+            "descripcion": "Tang® Naranjada Mix, es una mezcla de Naranja y Mango, un sabor cítrico y a la vez dulce que te encantará.",
+            "info_nutri": {
+                "contenido_energetico": "8 kJ (2 kcal)",
+                "proteinas": "0g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,6g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "24mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=naranjada",
+            "color": "#e7a531",
+            "texto_color": "#b86317",
+            "img_url": "img/sobres/naranjadamix.jpg",
+            "tipo": "mix"
+        },
+        "pinada":{
+            "nombre": "PIÑADA MIX",
+            "titulo": "¡Sírvelo con mucho hielo!",
+            "descripcion": "El sabor Tang® Piñada Mix está hecho de Piña y Guayaba, al probarlo lo querrás llevar a todos lados.",
+            "info_nutri": {
+                "contenido_energetico": "14 kJ (3 kcal)",
+                "proteinas": "0,1g",
+                "grasas": "0g",
+                "grasa_saturada": "0g",
+                "carbohidratos": "0,7g",
+                "azucares": "0g",
+                "fibra_dietetica": "0g",
+                "sodio": "23mg",
+                "vitamina_c": " 6 mg (10% del VNR**)"
+            },
+            "link": "/tang-2019/sabores/sabor_int.php?sobres=pinada",
+            "color": "#f47569",
+            "texto_color": "#c3493d",
+            "img_url": "img/sobres/pinadamix.jpg",
+            "tipo": "mix"
+        }
+    }
+}

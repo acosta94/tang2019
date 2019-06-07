@@ -1,0 +1,15 @@
+{
+    "items": {
+       "frutas": {
+           "url": [
+            "/img/home_promo/fresa.png",
+            "/img/home_promo/limon.png",
+            "/img/home_promo/naranja_1.png",
+            "/img/home_promo/naranja_2.png"
+           ],
+           "frutas_pos":[[80,0],[0,80],[95,95]],
+           "frutas_transform":[[-50,-15],[-30,-50],[-50,-50]]
+       }
+       
+    }
+}

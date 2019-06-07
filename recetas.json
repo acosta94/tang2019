@@ -1,0 +1,592 @@
+{
+    "recetas": {
+        "durazno":{
+            "nombre": "GELATINA DE DURAZNO",
+            "minutos": 20,
+            "porciones": 6,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Durazno",
+                    "1 lt. de agua",
+                    "3 sobres de grenetina",
+                    "¾ tza. de agua",
+                    "3 pzas. de duraznos cortados en gajos",
+                    "Hojas de menta"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Durazno en el agua.",
+                "<span>HIDRATAR</span> la grenetina en ¾ de taza de agua y posteriormente fundir a baño maría o en microondas hasta que esté completamente líquido",
+                "<span>MEZCLAR</span> la grenetina con el agua de durazno y verter en moldes individuales de gelatina.",
+                "<span>AGREGAR</span> gajos de durazno y hojas de menta al gusto."
+            ],
+            "tip": "Puedes usar duraznos en almíbar.",
+            "color": "#fd9f85",
+            "texto_color": "#ba492a",
+            "img_url" : "img/recetas/big/durazno.jpg",
+            "home_img_url": "img/recetas_home/durazno1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=durazno",
+            "tipo": "platillo"
+        },
+        "fresa":{
+            "nombre": "PALETAS DE FRESA",
+            "minutos": 20,
+            "porciones": 6,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Fresa",
+                    "1 lt. de agua",
+                    "2 tzas. de fresas fileteadas"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Fresa en el agua",
+                "<span>COLOCAR</span> las fresas dentro de los moldes para paleta y verter el agua Sabor Fresa.",
+                "<span>CONGELAR</span> durante 2 horas"
+            ],
+            "tip": "Puedes sustituir las fresas por cualquier fruta de temporada",
+            "color": "#ea505c",
+            "texto_color": "#a62630",
+            "img_url" : "img/recetas/big/fresa.jpg",
+            "home_img_url": "img/recetas_home/fresa1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=fresa",
+            "tipo": "platillo"
+        },
+        "fresadamix":{
+            "nombre": "DELICIA DE FRESA",
+            "minutos": 15,
+            "porciones": 4,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Fresada Mix",
+                    "1 lt. de agua",
+                    "1 lata de leche condensada",
+                    "3 tzas. de hielo",
+                    "1 tza. de fresas en rodajas"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Fresa Mix en el agua",
+                "<span>LICUAR</span> el hielo, con el agua Tang® Sabor Fresada Mix y la lata de leche condensada.",
+                "<span>SERVIR</span> con rodajas de fresa."
+            ],
+            "color": "#da9362",
+            "texto_color": "#c14d37",
+            "img_url" : "img/recetas/big/fresadamix.jpg",
+            "home_img_url": "img/recetas_home/fresadamix1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=fresadamix",
+            "tipo": "bebida"
+        },
+        "guayaba":{
+            "nombre": "MINI CHEESECAKE DE GUAYABA",
+            "minutos": 30,
+            "porciones": 8,
+            "ingredientes": {
+                "normal": [
+                    "210 gr. de Queso Crema Philadelphia®",
+                    "2 pzas. de huevo",
+                    "30 gr. de fécula de maíz",
+                    "60 gr. de azúcar",
+                    "60 ml. de crema para batir",
+                    "½ sobre de Tang® Sabor Guayaba"
+                ],
+                "base":[
+                    "1 ½ tzas. de galleta molida Marbúdorada®",
+                    "75 gr. de mantequilla derretida"
+                ],
+                "otros":[
+                    "Capacillos",
+                    "Molde para cupcakes"
+                ]
+            },
+            "preparacion": [
+                "<span>LICUAR</span> el Queso Crema Philadelphia®, el azúcar, la fécula, el sobre de Tang® Sabor Guayaba, el huevo y la crema.",
+                "<span>MEZCLAR</span> la galleta molida Marbúdorada® con la mantequilla derretida.",
+                "<span>COLOCAR</span> los capacillos en el molde y cubrir el fondo con la galleta, presionando perfectamente.",
+                "<span>VERTER</span> el batido de pay sobre la base de galleta.",
+                "<span>HORNEAR</span> a 160°C durante 25 minutos o hasta que esté cocido.",
+                "<span>ENFRIAR</span> antes de retirar el capacillo."
+            ],
+            "color": "#e0c348",
+            "texto_color": "#b59301",
+            "img_url" : "img/recetas/big/guayaba.jpg",
+            "home_img_url": "img/recetas_home/guayaba1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=guayaba",
+            "tipo": "platillo"
+        },
+        "horchata":{
+            "nombre": "CREPAS DE PLÁTANO EN SALSA DE HORCHATA",
+            "minutos": 0,
+            "porciones": 4,
+            "ingredientes": {
+                "salsa": [
+                    "½ sobre de Tang® Sabor Horchata",
+                    "1 ½ tza. de leche",
+                    "190 gr. de Queso Crema Philadelphia®"
+                ],
+                "otros": [
+                    "4 plátanos",
+                    "5 cdas. de mantequilla",
+                    "2 cdas. de azúcar",
+                    "8 crepas"
+                ]
+            },
+            "preparacion": [
+                "<span>LICUAR</span> los ingredientes de la salsa.",
+                "<span>VERTER</span> la salsa en un recipiente y calentar hasta que suelte el hervor y reservar.",
+                "<span>REBANAR</span> los plátanos y en una sartén agregar dos cucharadas de mantequilla, cocinar los plátanos y el azúcar a que doren un poco.",
+                "<span>CALENTAR</span> nuevamente la sartén con la mantequilla restante y saltear poco las tortillas de harina.",
+                "<span>RELLENAR</span> con el plátano y bañar con la Salsa de Horchata."
+            ],
+            "tip": "Puedes usar tortillas de harina en lugar de crepas.",
+            "color": "#e7d5a4",
+            "texto_color": "#87683d",
+            "img_url" : "img/recetas/big/horchata.jpg",
+            "home_img_url": "img/recetas_home/horchata1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=horchata",
+            "tipo": "platillo"
+        },
+        "jamaica":{
+            "nombre": "PECHUGA DE POLLO EN SALSA DE JAMAICA",
+            "minutos": 30,
+            "porciones": 6,
+            "ingredientes": {
+                "salsa": [
+                    "½ sobre de Tang® Sabor Jamaica",
+                    "3 cdas. de fécula de maíz",
+                    "1 ½ tzs de caldo de res",
+                    "1 tza. de vino tinto",
+                    "Sal y pimienta"
+                ],
+                "otros": [
+                    "6 filetes de pechuga",
+                    "Sal y pimienta"
+                ]
+            },
+            "preparacion": [
+                "<span>DILUIR</span> en el caldo de res la fécula de maíz y disolver el sobre de Tang® Sabor Jamaica.",
+                "<span>CALENTAR</span> en una olla pequeña el vino tinto; dejar que se reduzca una cuarta parte de caldo y seguir calentando sin dejar de mover hasta que la salsa espese.",
+                "<span>SAZONAR</span> con sal y pimienta al gusto. Reservar.",
+                "<span>CALENTAR</span> una sartén con aceite y cocer las pechugas de pollo  previamente salpimentadas.",
+                "<span>SERVIR</span> con la Salsa de Jamaica."
+            ],
+            "tip": "Puedes acompañar con verduras asadas.",
+            "color": "#96080a",
+            "texto_color": "#530505",
+            "img_url" : "img/recetas/big/jamaica.jpg",
+            "home_img_url": "img/recetas_home/jamaica1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=jamaica",
+            "tipo": "platillo"
+        },
+        "limon":{
+            "nombre": "LIMONADA ROSA",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Limón",
+                    "2 lts. de agua",
+                    "5 flores de jamaica secas",
+                    "1 limón amarillo en rodajas",
+                    "Hielo al gusto"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Limón en el agua.",
+                "<span>AGREGAR</span>  las flores de jamaica, las rodajas de limón y los hielos.",
+                "<span>SERVIR</span>."
+            ],
+            "color": "#9fca61",
+            "texto_color": "#44690e",
+            "img_url" : "img/recetas/big/limon.jpg",
+            "home_img_url": "img/recetas_home/limon1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=limon",
+            "tipo": "bebida"
+        },
+        "mandarina":{
+            "nombre": "PASTA ORIENTAL A LA MANDARINA",
+            "minutos": 30,
+            "porciones": 4,
+            "ingredientes": {
+                "normal": [
+                    "½ sobre de Tang® Sabor Mandarina",
+                    "1 ½ tza. de caldo de pollo",
+                    "2 cdas. de fécula de maíz",
+                    "½ tza. de agua",
+                    "4 cdas. de aceite",
+                    "1 pimiento rojo, 1 verde y 1 amarillo cortados en cubos medianos",
+                    "½ cebolla morada cortada en cubos grandes",
+                    "2 medias pechugas cortadas en cubos grandes",
+                    "½ tza. de brócoli cocido",
+                    "2 cdas. de ajonjolí negro",
+                    "500 gr. de pasta tornillo cocida"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Mandarina en el caldo de pollo. Reservar.",
+                "<span>DILUIR</span>  la fécula en ½ taza de agua. Reservar.",
+                "<span>CALENTAR</span> una sartén con 4 cucharadas de aceite, incorporar el pollo, la cebolla y los  pimientos. Cocinar.",
+                "<span>VERTER</span> el sobre de Tang® Sabor Mandarina con la fécula y dejar que espese un poco.",
+                "<span>INCORPORAR</span> el brócoli y la pasta.",
+                "<span>SERVIR</span> y espolvorear con ajonjolí negro."
+            ],
+            "tip": "Puedes sustituir el pollo por camarones.",
+            "color": "#f1912a",
+            "texto_color": "#9f5200",
+            "img_url" : "img/recetas/big/mandarina.jpg",
+            "home_img_url": "img/recetas_home/mandarina1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=mandarina",
+            "tipo": "platillo"
+        },
+        "mango":{
+            "nombre": "BATIDO DE MANGO",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Mango",
+                    "1 lt. de agua",
+                    "1 tza. de mango en cubos",
+                    "3 tzas. de hielo",
+                    "Jugo de limón",
+                    "Sal al gusto"
+                ]
+            },
+            "preparacion": [
+                "<span>ESCARCHAR</span> los vasos en el jugo de limón y sal. Reservar.",
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Mango en el agua.",
+                "<span>LICUAR</span> el hielo, con el agua Sabor Mango.",
+                "<span>SERVIR</span> con cubos de mango.",
+                "<span>DECORAR</span> con hojas de menta y gajos de limón."
+            ],
+            "color": "#efc133",
+            "texto_color": "#d88c08",
+            "img_url" : "img/recetas/big/mango.jpg",
+            "home_img_url": "img/recetas_home/mango1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=mango",
+            "tipo": "bebida"
+        },
+        "manzana":{
+            "nombre": "HOTCAKES DE MANZANA",
+            "minutos": 20,
+            "porciones": 6,
+            "ingredientes": {
+                "normal": [
+                    "2 tzas. de mezcla preparada para hotcakes",
+                    "¼ de sobre Tang® Sabor Manzana",
+                    "Mantequilla derretida, la cantidad necesaria"
+                ],
+                "para_las_manzanas": [
+                    "1 cda. de mantequilla",
+                    "2 pzas. de manzanas verdes peladas y cortadas en rodajas",
+                    "2 cdas. de azúcar",
+                    "½ cdita. de canela en polvo"
+                ]
+            },
+            "preparacion": [
+                "<span>DERRETIR</span> en una sartén la mantequilla y acomodar las manzanas, agregar azúcar, canela y dejar cocinar por 3 minutos. Reservar.",
+                "<span>AGREGAR</span> a la mezcla para hotcakes el sobre de Tang® Sabor Manzana, mezclar y preparar.",
+                "<span>SERVIR</span> con las manzanas caramelizadas."
+            ],
+            "color": "#c6212d",
+            "texto_color": "#740008",
+            "img_url" : "img/recetas/big/manzana.jpg",
+            "home_img_url": "img/recetas_home/manzana1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=manzana",
+            "tipo": "platillo"
+        },
+        "melon":{
+            "nombre": "AGUA DE MELÓN",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Melón",
+                    "1 lt. de agua",
+                    "2 tza. de kiwi en rodajas",
+                    "Hielo al gusto",
+                    "Hojas de menta"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Melón en el agua.",
+                "<span>AGREGAR</span> hielo, hojas de menta y kiwi.",
+                "<span>SERVIR</span>."
+            ],
+            "color": "#fbaf71",
+            "texto_color": "#c56a20",
+            "img_url" : "img/recetas/big/melon.jpg",
+            "home_img_url": "img/recetas_home/melon1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=melon",
+            "tipo": "bebida"
+        },
+        "naranja":{
+            "nombre": "TARTA DE NARANJA",
+            "minutos": 20,
+            "porciones": 8,
+            "ingredientes": {
+                "normal": [
+                    "300 gr. de Queso Crema Philadelphia®",
+                    "1 tza. de crema para batir",
+                    "1 tza. de leche",
+                    "2 sobres de grenetina hidratados en ¼ de tza. de agua fría",
+                    "½ sobre de Tang® Sabor Naranja"
+                ]
+            },
+            "preparacion": [
+                "<span>LICUAR</span> el Queso Crema Philadelphia® con la crema para batir, la leche y el sobre de Tang® Sabor Naranja.",
+                "<span>DISOLVER</span> la grenetina hidratada  a baño maría o en el microondas por unos segundos hasta que esté completamente líquida e integrar a la mezcla de Queso Crema Philadelphia®.",
+                "<span>VACIAR</span> en un molde rectangular previamente engrasado con aceite. Refrigerar hasta que cuaje.",
+                "<span>DISOLVER</span>  el sobre de Tang® Sabor Naranja en la miel de maple y servir con el pay."
+            ],
+            "color": "#f1912a",
+            "texto_color": "#ad610f",
+            "img_url" : "img/recetas/big/naranja.jpg",
+            "home_img_url": "img/recetas_home/naranja1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=naranja",
+            "tipo": "platillo"
+        },
+        "limonada":{
+            "nombre": "LIMONADA BRASILEÑA",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Limonada Mix",
+                    "1 lt. de agua",
+                    "1 lata de leche condensada",
+                    "3 tzas. de hielo"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Limonada Mix en el agua.",
+                "<span>LICUAR</span> el hielo, con el agua de limón y la lata de leche condensada.",
+                "<span>SERVIR</span>."
+            ],
+            "color": "#e5d331",
+            "texto_color": "#9d8d00",
+            "img_url" : "img/recetas/big/limonada.jpg",
+            "home_img_url": "img/recetas_home/limonada1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=limonada",
+            "tipo": "bebida"
+        },
+        "naranjada":{
+            "nombre": "BATIDO DE NARANJA Y MANGO",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "2 tzas. de crema para batir",
+                    "1 tza. de mango natural  en rebanadas",
+                    "1 cda. de Tang® Sabor Naranjada Mix"
+                ],
+                "para_el_concentrado": [
+                    "1 sobre de Tang® Sabor Naranjada Mix",
+                    "1 tza. de agua"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Naranjada Mix en 1 taza de agua. Reservar.",
+                "<span>LICUAR</span> la crema batida con la cucharada de Tang® Sabor Naranjada Mix.",
+                "<span>AGREGAR</span> en un vaso un poco del batido anterior, añadir concentrado de Tang® Sabor Naranjada Mix, añadir un poco más de batido, más concentrado y terminar con rebanadas de mango al gusto.",
+                "<span>DECORAR</span> con rebanadas de naranja y hojas de menta."
+            ],
+            "color": "#e7a531",
+            "texto_color": "#b86317",
+            "img_url" : "img/recetas/big/naranjada.jpg",
+            "home_img_url": "img/recetas_home/naranjada1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=naranjada",
+            "tipo": "bebida"
+        },
+        "pina":{
+            "nombre": "PAY DE PIÑA",
+            "minutos": 50,
+            "porciones": 9,
+            "ingredientes": {
+                "normal": [
+                    "4 pzas. de huevo",
+                    "30 gr. de fécula de maíz",
+                    "60 gr. de  azúcar",
+                    "60 ml. de crema para batir",
+                    "½ sobre de Tang® Sabor Piña",
+                    "1 ½ tzas. de mermelada de piña"
+                ],
+                "base": [
+                    "200 gr. de azúcar",
+                    "200 gr. de mantequilla",
+                    "2 huevos",
+                    "400 gr. de harina"
+                ]
+            },
+            "preparacion": [
+                "<span>MEZCLAR</span> el azúcar con la mantequilla, agregar el huevo e integrar, incorporar la harina y amasar.",
+                "<span>REFRIGERAR</span> la masa por 15 minutos, dividir en 2 (1 porción para la base del molde  y la otra será para el enrejado).",
+                "<span>EXTENDER</span> una porción de masa, cubrir la base y orillas de un molde para tarta.",
+                "<span>LICUAR</span> el Queso Crema Philadelphia®, azúcar, fécula, ½ sobre de Tang® Sabor Piña, huevo y la crema.",
+                "<span>VERTER</span> el batido de pay sobre el molde previamente cubierto con la masa. Pre-cocer a 160°C durante 20 minutos o hasta que el pay haya creado una costra.",
+                "<span>CUBRIR</span> cuidadosamente con la mermelada de piña para no romper la costra. Reservar.",
+                "<span>EXTENDER</span> la masa restante y cortar tiras de 25 centímetros aproximadamente.",
+                "<span>COLOCAR</span> la tiras de masa sobre el pay pre-horneado, formar un enrejado, sellar bien las orillas y barnizar con huevo.",
+                "<span>TERMINAR</span> de hornear a 160°C por 25 minutos o hasta que el enrejado esté cocido.",
+                "<span>DEJAR</span> enfriar y servir."
+            ],
+            "color": "#e9c500",
+            "texto_color": "#a38600",
+            "img_url" : "img/recetas/big/pina.jpg",
+            "home_img_url": "img/recetas_home/pina1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=pina",
+            "tipo": "platillo"
+        },
+        "pinada":{
+            "nombre": "PIÑADA FRESCA",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Piñada Mix",
+                    "1 lt. de agua mineral",
+                    "3 guayabas rosas en rodajas",
+                    "Piña al gusto",
+                    "Hielo al gusto",
+                    "Hojas de menta"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Piñada Mix en el agua.",
+                "<span>AGREGAR</span> hielo, hojas de menta y piña.",
+                "<span>SERVIR</span>."
+            ],
+            "color": "#f47569",
+            "texto_color": "#c3493d",
+            "img_url" : "img/recetas/big/pinada.jpg",
+            "home_img_url": "img/recetas_home/pinada1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=pinada",
+            "tipo": "bebida"
+        },
+        "pina_colada":{
+            "nombre": "PIÑA COLADA PLAYERA",
+            "minutos": 15,
+            "porciones": 4,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor a Piña Colada",
+                    "1 lt. de agua",
+                    "1 lata de leche evaporada",
+                    "3 tzas. de hielo "
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span>  el sobre de Tang® Sabor Piña Colada en el agua.",
+                "<span>LICUAR</span> el hielo, con el agua de Piña Colada y la lata de leche evaporada.",
+                "<span>SERVIR</span>."
+            ],
+            "color": "#e9da86",
+            "texto_color": "#754e28",
+            "img_url" : "img/recetas/big/pina_colada.jpg",
+            "home_img_url": "img/recetas_home/pina_colada1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=pina_colada",
+            "tipo": "bebida"
+        },
+        "tamarindo":{
+            "nombre": "SMOOTHIE DE TAMARINDO",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Tamarindo",
+                    "1 lt. de agua",
+                    "1 lt. de hielo"
+                ],
+                "otros": [
+                    "Pulpa de tamarindo al gusto",
+                    "Chile en polvo"
+                ]
+            },
+            "preparacion": [
+                "<span>ESCARCHAR</span> los vasos con tamarindo y chile en polvo.",
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Tamarindo en el agua.",
+                "<span>LICUAR</span> todo y servir.",
+                "<span>AGREGAR</span> chamoy en las paredes  y en el fondo del vaso.",
+                "<span>AÑADIR</span> el Smoothie de Tamarindo y decorar con palitos de tamarindo."
+            ],
+            "color": "#854d27",
+            "texto_color": "#b69458",
+            "img_url" : "img/recetas/big/tamarindo.jpg",
+            "home_img_url": "img/recetas_home/tamarindo1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=tamarindo",
+            "tipo": "bebida"
+        },
+        "te_negro_frutos":{
+            "nombre": "TÉ FRUTAL",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Té Negro Sabor Frutos Rojos",
+                    "2 lt. de agua",
+                    "2 tzas. de frutos rojos mixtos",
+                    "Hojas de menta"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Té Negro Sabor Frutos Rojos en el agua.",
+                "<span>SERVIR</span> en copas con frutas y hojitas de menta."
+            ],
+            "color": "#922617",
+            "texto_color": "#440c05",
+            "img_url" : "img/recetas/big/te_negro_frutos.jpg",
+            "home_img_url": "img/recetas_home/te_negro_frutos1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=te_negro_frutos",
+            "tipo": "bebida"
+        },
+        "te_negro_limon":{
+            "nombre": "TÉ HELADO CÍTRICO",
+            "minutos": 0,
+            "porciones": 0,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Té Negro Sabor Limón",
+                    "2 lt. de agua",
+                    "1 limón sin semillas en rebanadas delgadas",
+                    "Romero fresco",
+                    "Blueberry al gusto",
+                    "Hielo al gusto"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Té Negro Sabor Limón en el agua.",
+                "<span>SERVIR</span> con hielo, rebanadas de limón y una ramita de romero fresco."
+            ],
+            "color": "#cee27b",
+            "texto_color": "#569015",
+            "img_url" : "img/recetas/big/te_negro_limon.jpg",
+            "home_img_url": "img/recetas_home/te_negro_limon1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=te_negro_limon",
+            "tipo": "bebida"
+        },
+        "uva":{
+            "nombre": "UVA CLERICOT",
+            "minutos": 20,
+            "porciones": 6,
+            "ingredientes": {
+                "normal": [
+                    "1 sobre de Tang® Sabor Uva",
+                    "2 tzas. de fruta natural  (toronja en rodajas, blueberry y uvas)",
+                    "2 lts. de agua",
+                    "¼ tza. de jugo de limón"
+                ]
+            },
+            "preparacion": [
+                "<span>DISOLVER</span> el sobre de Tang® Sabor Uva en el agua.",
+                "<span>AGREGAR</span>  el jugo de limón y la fruta.",
+                "<span>SERVIR</span>."
+            ],
+            "color": "#6b2078",
+            "texto_color": "#df85fc",
+            "img_url" : "img/recetas/big/uva.jpg",
+            "home_img_url": "img/recetas_home/uva1.png",
+            "link": "/tang-2019/recetas/receta_int.php?recetas=uva",
+            "tipo": "bebida"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+.derecho .plasta_circular .receta_home_cont.subir_anim {
+  -webkit-transform: translate(0, -70%);
+          transform: translate(0, -70%);
+  opacity: 0;
+}
+
+.derecho .plasta_circular .receta_home_cont.bajar_anim {
+  -webkit-transform: translate(0, 70%);
+          transform: translate(0, 70%);
+  opacity: 0;
+}
+/*# sourceMappingURL=animations.css.map */
